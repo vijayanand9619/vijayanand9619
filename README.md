@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay Anand
 - 👀 I’m interested in Embedded programming. 
-- 🌱 I’m currently learning Embedded 
+- 🌱 I’m working as a embedded software developer
 - 💞️ I’m looking to collaborate on my work. 
 - 📫 How to reach me through mail and phone calls. 
 

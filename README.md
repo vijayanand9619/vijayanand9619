@@ -2,7 +2,8 @@
 - 👀 I’m interested in Embedded programming. 
 - 🌱 I’m working as a embedded software developer
 - 💞️ I’m looking to collaborate on my work. 
-- 📫 How to reach me through mail and phone calls. 
+- 📫 Reach me through mail.
+- mail id: vijaymyonline@gmail.com
 
 <!---
 vijayanand9619/vijayanand9619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
